@@ -10,5 +10,5 @@ Aquest projecte és un simulador de backend per a un comparador de vols. Està d
 
 ## 🧑🏻‍💻 Dades del Projecte
 * **Autor:** [Gerard Moliner i Condomines](https://github.com/mooliner)
-* **LinkedIn:** [Gerard Moliner i Condomines](www.linkedin.com/in/gerard-moliner-condomines-933954350)
+* **LinkedIn:** [Gerard Moliner i Condomines](https://www.linkedin.com/in/gerard-moliner-condomines-933954350/)
 * **Any:** 2026
